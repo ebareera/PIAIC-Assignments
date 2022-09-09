@@ -1,4 +1,3 @@
-from ipaddress import summarize_address_range
 import random
 
 rand_list = []

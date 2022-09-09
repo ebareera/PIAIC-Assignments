@@ -10,7 +10,7 @@ def custom_input(input_msg):
 
     return number
 
-num = custom_input("Enter an integer!\n")
+num = custom_input("Enter an integer to print its table!\n")
 print("***************")
 print(f"Table of {num}")
 print("***************")
